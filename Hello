@@ -1,0 +1,13 @@
+<DOCTYPE!>
+<html>
+	<head>
+		<title> FORMS </title>
+	</head>
+	<body>
+		<form>
+		<input type = "text" placeholder = "Full Name" Name ="">
+		<button> Submit </button>
+	</body>
+</html>
+
+
